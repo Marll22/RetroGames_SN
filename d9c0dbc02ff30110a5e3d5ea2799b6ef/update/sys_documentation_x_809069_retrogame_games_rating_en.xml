@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="rating" label="Rating" language="en" table="x_809069_retrogame_games">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rating</element>
+            <help/>
+            <hint/>
+            <label>Rating</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <plural>Ratings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-26 21:47:28</sys_created_on>
+            <sys_id>edcdd3c02f370110a5e3d5ea2799b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rating</sys_name>
+            <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+            <sys_update_name>sys_documentation_x_809069_retrogame_games_rating_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-26 21:47:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

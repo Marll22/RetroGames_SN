@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Games">2cf117c42ff30110a5e3d5ea2799b6cb</application>
+        <filter/>
+        <name>Games</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_809069_retrogame.games_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 20:55:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6cf117c42ff30110a5e3d5ea2799b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games</sys_name>
+        <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+        <sys_update_name>sys_ui_module_6cf117c42ff30110a5e3d5ea2799b6ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 20:55:48</sys_updated_on>
+        <table>x_809069_retrogame_games</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</application>
+        <file_path/>
+        <instance_id>7387da5d6f42de406626a9cc5d3ee4e9</instance_id>
+        <instance_name>dev20673</instance_name>
+        <name>sys_ui_module_6cf117c42ff30110a5e3d5ea2799b6ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Games">2cf117c42ff30110a5e3d5ea2799b6cb</application><filter/><name>Games</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_809069_retrogame.games_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-26 20:55:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6cf117c42ff30110a5e3d5ea2799b6ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Games</sys_name><sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package><sys_policy/><sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope><sys_update_name>sys_ui_module_6cf117c42ff30110a5e3d5ea2799b6ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-26 20:55:48</sys_updated_on><table>x_809069_retrogame_games</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>308793962</payload_hash>
+        <record_name>Games</record_name>
+        <reverted_from/>
+        <source>9dc0dbc02ff30110a5e3d5ea2799b6f1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 20:55:48</sys_created_on>
+        <sys_id>6cf117c42ff30110a5e3d5ea2799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1810227715d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 20:55:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a4f117c4fbf3011009a5323404bf16d1</update_guid>
+        <update_guid_history>a4f117c4fbf3011009a5323404bf16d1:308793962</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 20:59:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0111381444de44dc801d6b8d4160ae84</sys_id>
+        <sys_metadata>6cf117c42ff30110a5e3d5ea2799b6ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games</sys_name>
+        <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+        <sys_scope_delete display_value="">233697ceb7f849e48572b05e451b4ae1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_6cf117c42ff30110a5e3d5ea2799b6ce</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_6cf117c42ff30110a5e3d5ea2799b6ce">6cf117c42ff30110a5e3d5ea2799b6d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 20:59:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

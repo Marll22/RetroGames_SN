@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Games" max_length="40" name="x_809069_retrogame_games" type="collection">
+        <element label="Console" max_length="50" name="console" type="string"/>
+        <element label="Playtime Average" max_length="40" name="playtime_average" type="float"/>
+        <element label="Price" max_length="20" name="price" type="price"/>
+        <element label="Publisher" max_length="100" name="publisher" type="string"/>
+        <element label="Rating" max_length="1" name="rating" type="string"/>
+        <element label="Score" max_length="100" name="score" type="integer"/>
+        <element label="title" mandatory="true" max_length="200" name="title" type="string"/>
+    </element>
+</database>

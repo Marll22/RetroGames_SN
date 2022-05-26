@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description>Scan the Games table and for each blank in the Publisher field insert "unknown"</description>
+        <name>unknown publishers</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[var games = new GlideRecord('x_809069_retrogame_games');
+
+games.addNullQuery('publisher');
+games.query();
+
+while(games.next()){
+	games.setValue('publisher', 'unknown');
+	games.update();
+}
+
+gs.info('Games with a null publisher field have been given the unknown field value.');
+]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 22:23:04</sys_created_on>
+        <sys_id>699527c82f370110a5e3d5ea2799b6e0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>unknown publishers</sys_name>
+        <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+        <sys_update_name>sys_script_fix_699527c82f370110a5e3d5ea2799b6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 22:43:38</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
