@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6a7678602f3b4110a5e3d5ea2799b654" sys_domain="global" table="x_809069_retrogame_games" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a76b0e02f3b4110a5e3d5ea2799b614</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_809069_retrogame_games" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6a7678602f3b4110a5e3d5ea2799b654</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_809069_retrogame_games" sys_domain="global" view="Default view">be76b0e02f3b4110a5e3d5ea2799b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c776b0e02f3b4110a5e3d5ea2799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_809069_retrogame_games" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6a7678602f3b4110a5e3d5ea2799b654</sys_ui_form>
+            <sys_ui_section caption="Item Details" display_value="Item Details" name="x_809069_retrogame_games" sys_domain="global" view="Default view">cb76b0e02f3b4110a5e3d5ea2799b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa76b0e02f3b4110a5e3d5ea2799b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_809069_retrogame_games" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6a7678602f3b4110a5e3d5ea2799b654</sys_ui_form>
+            <sys_ui_section caption="Process Engine" display_value="Process Engine" name="x_809069_retrogame_games" sys_domain="global" view="Default view">fe76b0e02f3b4110a5e3d5ea2799b614</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a76b0e02f3b4110a5e3d5ea2799b61c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_809069_retrogame_games" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6a7678602f3b4110a5e3d5ea2799b654</sys_ui_form>
+            <sys_ui_section caption="Picture" display_value="Picture" name="x_809069_retrogame_games" sys_domain="global" view="Default view">7276b0e02f3b4110a5e3d5ea2799b619</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4776b0e02f3b4110a5e3d5ea2799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_809069_retrogame_games" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6a7678602f3b4110a5e3d5ea2799b654</sys_ui_form>
+            <sys_ui_section caption="Pricing" display_value="Pricing" name="x_809069_retrogame_games" sys_domain="global" view="Default view">be76b0e02f3b4110a5e3d5ea2799b61c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b276b0e02f3b4110a5e3d5ea2799b60d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_809069_retrogame_games" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6a7678602f3b4110a5e3d5ea2799b654</sys_ui_form>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_809069_retrogame_games" sys_domain="global" view="Default view">6276b0e02f3b4110a5e3d5ea2799b606</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_809069_retrogame_games</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a7678602f3b4110a5e3d5ea2799b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_809069_retrogame_games</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6a7678602f3b4110a5e3d5ea2799b654</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

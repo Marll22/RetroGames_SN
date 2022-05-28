@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Games" max_length="40" name="x_809069_retrogame_games" type="collection">
-        <element default="uknown" label="Console" max_length="50" name="console" type="string"/>
-        <element default="0" label="Playtime Average" max_length="40" name="playtime_average" type="float"/>
-        <element label="Price" max_length="20" name="price" type="price"/>
-        <element default="uknown" label="Publisher" max_length="100" name="publisher" type="string"/>
+    <element attributes="update_synch=true" extends="sc_cat_item" label="Games" max_length="40" name="x_809069_retrogame_games" type="collection">
+        <element default="0" label="Avg. Playtime" max_length="200" name="avg_playtime" type="float"/>
+        <element default="unknown" label="Console" max_length="200" name="console" type="string"/>
+        <element label="Genres" max_length="200" name="genres" type="string_full_utf8"/>
+        <element default="Uknown" label="Publisher" max_length="200" name="publisher" type="string_full_utf8"/>
         <element default="M" label="Rating" max_length="1" name="rating" type="string"/>
+        <element label="Release Year" max_length="200" name="release_year" type="integer"/>
         <element default="0" label="Score" max_length="100" name="score" type="integer"/>
-        <element label="title" mandatory="true" max_length="200" name="title" type="string"/>
+        <element label="Title" mandatory="true" max_length="150" name="title" type="string"/>
     </element>
 </database>

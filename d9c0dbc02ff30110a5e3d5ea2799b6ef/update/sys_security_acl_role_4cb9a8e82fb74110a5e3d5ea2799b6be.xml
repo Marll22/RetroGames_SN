@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 21:57:37</sys_created_on>
+        <sys_id>4cb9a8e82fb74110a5e3d5ea2799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_809069_retrogame_games.x_809069_retrogame.games_user</sys_name>
+        <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+        <sys_security_acl display_value="x_809069_retrogame_games">44b9a8e82fb74110a5e3d5ea2799b6bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4cb9a8e82fb74110a5e3d5ea2799b6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 21:57:37</sys_updated_on>
+        <sys_user_role display_value="x_809069_retrogame.games_user" name="x_809069_retrogame.games_user">28f1df042ff30110a5e3d5ea2799b6c0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

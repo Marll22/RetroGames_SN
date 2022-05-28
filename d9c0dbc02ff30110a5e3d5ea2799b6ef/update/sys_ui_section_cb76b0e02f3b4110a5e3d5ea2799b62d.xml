@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Item Details" section_id="cb76b0e02f3b4110a5e3d5ea2799b62d" sys_domain="global" table="x_809069_retrogame_games" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:45:53</sys_created_on>
+            <sys_id>8e720dac2f3b4110a5e3d5ea2799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:45:53</sys_updated_on>
+            <text>${gs.getMessage("Add relevant tags to the Meta field using comma-separated list of tags. These tags will be used while searching the item. Not applicable if AI Search is configured.")}</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:45:53</sys_created_on>
+            <sys_id>02720dac2f3b4110a5e3d5ea2799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Details" display_value="Item Details" name="x_809069_retrogame_games" sys_domain="global" view="Default view">cb76b0e02f3b4110a5e3d5ea2799b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:45:53</sys_created_on>
+            <sys_id>06720dac2f3b4110a5e3d5ea2799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Details" display_value="Item Details" name="x_809069_retrogame_games" sys_domain="global" view="Default view">cb76b0e02f3b4110a5e3d5ea2799b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>8e720dac2f3b4110a5e3d5ea2799b62d</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:45:53</sys_created_on>
+            <sys_id>0a720dac2f3b4110a5e3d5ea2799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Details" display_value="Item Details" name="x_809069_retrogame_games" sys_domain="global" view="Default view">cb76b0e02f3b4110a5e3d5ea2799b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:45:53</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meta</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:45:53</sys_created_on>
+            <sys_id>0e720dac2f3b4110a5e3d5ea2799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item Details" display_value="Item Details" name="x_809069_retrogame_games" sys_domain="global" view="Default view">cb76b0e02f3b4110a5e3d5ea2799b62d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:45:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Item Details</caption>
+            <header>false</header>
+            <name>x_809069_retrogame_games</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 22:53:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb76b0e02f3b4110a5e3d5ea2799b62d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_809069_retrogame_games</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+            <sys_update_name>sys_ui_section_cb76b0e02f3b4110a5e3d5ea2799b62d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 22:53:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

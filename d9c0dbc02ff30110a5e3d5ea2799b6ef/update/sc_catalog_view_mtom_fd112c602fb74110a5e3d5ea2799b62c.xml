@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>false</default>
+        <sc_catalog display_value="Retro Games">c1d9fb4c2f770110a5e3d5ea2799b6d5</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-27 21:20:03</sys_created_on>
+        <sys_id>fd112c602fb74110a5e3d5ea2799b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Retro Games.Catalog</sys_name>
+        <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="Catalog">453809e40a04bfde001fb14e5729693d</sys_portal_page>
+        <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_fd112c602fb74110a5e3d5ea2799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-27 21:20:03</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
