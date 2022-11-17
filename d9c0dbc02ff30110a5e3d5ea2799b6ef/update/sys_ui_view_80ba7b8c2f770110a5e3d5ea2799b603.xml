@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_retro_games</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 23:53:48</sys_created_on>
+        <sys_id>80ba7b8c2f770110a5e3d5ea2799b603</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Retro Games View</sys_name>
+        <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+        <sys_update_name>sys_ui_view_80ba7b8c2f770110a5e3d5ea2799b603</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 23:53:48</sys_updated_on>
+        <title>Retro Games View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

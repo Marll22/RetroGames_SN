@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="recurring_frequency" table="x_809069_retrogame_games" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>recurring_frequency</element>
+            <name>x_809069_retrogame_games</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_id>8571496c2f3b4110a5e3d5ea2799b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>recurring_frequency</sys_name>
+            <sys_package display_value="RetroGames" source="x_809069_retrogame">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RetroGames">d9c0dbc02ff30110a5e3d5ea2799b6ef</sys_scope>
+            <sys_update_name>sys_choice_x_809069_retrogame_games_recurring_frequency</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Daily</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0171496c2f3b4110a5e3d5ea2799b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>daily</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weekly</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c171496c2f3b4110a5e3d5ea2799b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>weekly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Every 2 Weeks</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d71496c2f3b4110a5e3d5ea2799b6f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>weekly2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monthly</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4571496c2f3b4110a5e3d5ea2799b6fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>monthly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Every 2 Months</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8d71496c2f3b4110a5e3d5ea2799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>monthly2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quarterly</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c571896c2f3b4110a5e3d5ea2799b601</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>quarterly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Semi-Annual</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0171896c2f3b4110a5e3d5ea2799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>semiannual</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recurring_frequency</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Annually</label>
+            <language>en</language>
+            <name>x_809069_retrogame_games</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-27 23:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0171896c2f3b4110a5e3d5ea2799b613</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-27 23:41:27</sys_updated_on>
+            <value>yearly</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
